@@ -1,5 +1,5 @@
 
-const { cadastrarProduto } = require('../Produtos/cadastroProduto');
+const { cadastrarProduto } = require('..src/Produtos/cadastroProduto');
 const { describe, it, expect } = require('@jest/globals');
 
 

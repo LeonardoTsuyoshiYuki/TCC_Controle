@@ -1,5 +1,5 @@
 
-const { cadastrarInspecao } = require('../Inpecoes/cadastroInspecoes')
+const { cadastrarInspecao } = require('..src/Inpecoes/cadastroInspecoes')
 const { describe, it, expect } = require('@jest/globals')
 
 describe('Cadastro de Inspeção', () => {
