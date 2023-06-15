@@ -1,0 +1,30 @@
+{
+  "name": "TCC_Controle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoTsuyoshiYuki/TCC_Controle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonardoTsuyoshiYuki/TCC_Controle/issues"
+  },
+  "homepage": "https://github.com/LeonardoTsuyoshiYuki/TCC_Controle#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
